@@ -1,0 +1,2 @@
+E:\Virtual Studio Projects\Minesweeper\Debug\Minesweeper.exe
+E:\Virtual Studio Projects\Minesweeper\Debug\Minesweeper.pdb
